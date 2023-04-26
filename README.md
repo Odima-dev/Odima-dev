@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Odima-dev (Vincent Odima)
 - 👀 I’m a Junior Web Developer.
 - 🌱 My stacks are C, Python, HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on Javascript and python projects.
+- 💞️ I’m looking to collaborate on Javascript and Python projects.
 - 📫 How to reach me: 
 Email: vincentodima22@gmail.com.
 Skype: vincentodima22@gmail.com.
