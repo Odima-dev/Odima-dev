@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Odima-dev (Vincent Odima)
-- 👀 I’m interested in Full Stack Software Development and DevOps
-- 🌱 I am a Software Engineering student at ALX school.
-- 💞️ I’m looking to collaborate on Javascript and python projects
-- 📫 How to reach me: vincentodima22@gmail.com; www.linkedin.com/in/vincent-odima-5767b498/
+- 👀 I’m a Junior Web Developer.
+- 🌱 My stacks are C, Python, HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on Javascript and python projects.
+- 📫 How to reach me: 
+Email: vincentodima22@gmail.com.
+Skype: vincentodima22@gmail.com.
+Linkedin: www.linkedin.com/in/vincent-odima-5767b498/
 
 <!---
 Odima-dev/Odima-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
